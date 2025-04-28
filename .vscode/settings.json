@@ -13,5 +13,7 @@
     "<node_internals>/**",
     "**/node_modules/**",
     "**/fixtures/**"
-  ]
+  ],
+  "IDX.aI.enableInlineCompletion": true,
+  "IDX.aI.enableCodebaseIndexing": true
 }
